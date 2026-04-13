@@ -6,7 +6,7 @@ Welcome to my personal portfolio! This is a showcase of my projects, skills, and
 
 ## 👨‍💻 About Me
 
-Hi, I'm <b>Qamarie Samsul!</b> I'm a <b>Software Engineer - Fullstack Developer (based in Malaysia)</b> passionate about building a customize web apps, mobile app. I specialize in python web, php web application and love creating what I enjoy building, also open to a <i>paid freelance job</i>, or a <i>Job Offer.</i>
+Hi, I'm <b>Qamarie Samsul!</b> I'm a <b>Software Engineer - Fullstack Developer (based in Malaysia)</b> passionate about building a customize web apps, mobile app. I specialize in python web, php web application and love creating what I enjoy building, also open to a <i>Job Offer.</i>
 
 - 🔭 Currently working on: improve existing project.
 - 🌱 Learning: [rapid mobile app dev, kotlin native].
